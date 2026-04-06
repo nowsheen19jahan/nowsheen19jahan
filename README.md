@@ -24,7 +24,7 @@ I am a Computer Science student focused on **Backend Development** and **AI**. I
 | **Database** | `MySQL` `MongoDB` |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css,react,nodejs,flask,mysql,mongodb,git,github,linux,jenkins&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css,react,nodejs,flask,mysql,mongodb,git,github,linux,jenkins" />
 </p>
 
 ---
