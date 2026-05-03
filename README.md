@@ -9,7 +9,7 @@
 ### 💫 About Me
 I am a **Software Engineering** student at JNTU UCEJ (8.92 CGPA) specializing in **Backend Systems** and **Scalable Architecture**. I thrive on solving complex algorithmic challenges and contributing to high-impact open-source projects.
 
-- 🚀 **Core Focus:** Building high-performance APIs with **FastAPI** and **SQLAlchemy**.
+- 🚀 **Core Focus:** Building high-performance APIs with **FastAPI** and **PostgreSQL**.
 - 🏆 **Achievements:** SheFi Scholar (Cohort 15) & solved **200+ DSA problems** on LeetCode.
 - 🌱 **Currently:** Deepening my knowledge in System Design and Distributed Systems.
 - ⚡ **Fun fact:** I believe clean code is just as important as functional code.
