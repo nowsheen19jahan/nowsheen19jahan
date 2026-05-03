@@ -19,13 +19,15 @@ I am a Computer Science student focused on **Backend Development** and **AI**. I
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `JavaScript` `C` `HTML5` `CSS3` |
-| **Frameworks** | `React` `Node.js` `Flask` |
-| **Infrastructure** | `Git` `GitHub` `Linux` `Jenkins` `Tableau` |
-| **Database** | `MySQL` `MongoDB` |
+| **Frameworks** | `React` `Node.js` `FastAPI` |
+| **Infrastructure** | `Git` `GitHub` `Linux` `Jenkins` `Postman` `Tableau` |
+| **Database** | `MySQL` `MongoDB` `PostgreSQL` `SQLAlchemy`  |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css,react,nodejs,flask,mysql,mongodb,git,github,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css,react,nodejs,fastapi,mysql,mongodb,postgresql,git,github,linux,jenkins,postman" />
+  
 </p>
+
 
 ---
 
